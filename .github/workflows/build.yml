@@ -19,5 +19,5 @@ jobs:
 
       - name: Run tests
         run: |
-          cd solid_principle_01
+          cd exception_handler
           mvn clean test
